@@ -233,7 +233,20 @@ class CreerUtilisateur(UserCreationForm):
 python manage.py makemigrations
 python manage.py migrate
 ```
+Create superadmin:
+````python
+python manage.py createsuperuser
+````
 
+student/admin.py :
+
+````python
+from django.contrib import admin
+from .models import Stud
+
+# Register your models here.
+admin.site.register(Stud)
+````
 ## 3. Views et CRUD<a class="anchor" id="section_3"></a>  
 
 compte/views.py:
