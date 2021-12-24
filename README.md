@@ -2,7 +2,7 @@
 
 ## Sommaire 
 
-* [1. Installation](#Section_1)
+* [1. Installation](#Section_1) 
 * [2. Les Routes](#Section_2)
 * [3. Les Templates](#Section_3)
 
