@@ -329,9 +329,9 @@ def show_stud(request):
 
 
 @login_required(login_url='acces')
-def edit_stud(requst, id):
+def edit_stud(request, id):
     stud = Stud.objects.get(id=id)
-    return render(requst, 'edit.html', {'stud': stud})
+    return render(request, 'edit.html', {'stud': stud})
 
 
 @login_required(login_url='acces')
