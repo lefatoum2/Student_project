@@ -1,5 +1,5 @@
 # Student_project
-
+![img6](./images/StudentRecords.png)
 ## Sommaire 
 
 * [1. Installation](#Section_1) 
@@ -908,3 +908,4 @@ urlpatterns = [
 ]
 
 ````
+![img6](./images/StudentRecords.png)
