@@ -1,5 +1,5 @@
 # Student_project
-![img6](./images/StudentRecords.png)
+![img6](https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 ## Sommaire 
 
 * [1. Installation](#Section_1) 
